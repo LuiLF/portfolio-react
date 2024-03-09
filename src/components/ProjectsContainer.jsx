@@ -6,7 +6,7 @@ const ProjectsContainer = () => {
         Em meu GitHub você poderá encontrar todos os meus projetos, clique no
         botão para ser redirecionado até lá.
       </p>
-      <a href="#" className="btn">
+      <a href="https://github.com/LuiLF" className="btn" target="_blank">
         Ver Projetos
       </a>
     </section>
